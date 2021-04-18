@@ -5,10 +5,14 @@ Aplicação web para inscrição em viagens espaciais. Consolidando conhecimento
 http://labexkell-lanes-connection.surge.sh/
 
 ## 📦 Desenvolvimento
+
 Autenticação (área administrativa privada com autenticação)
+
 Login : lanes@gmail.com.br
 Senha: 123456 
+
 Funcionalidades:
+
 Router
 Lista de viagens
 Formulários
