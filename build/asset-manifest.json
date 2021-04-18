@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d93e06b.chunk.css",
+    "main.js": "/static/js/main.0214a691.chunk.js",
+    "main.js.map": "/static/js/main.0214a691.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7da82275.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7da82275.js.map",
+    "static/js/2.8d6fef34.chunk.js": "/static/js/2.8d6fef34.chunk.js",
+    "static/js/2.8d6fef34.chunk.js.map": "/static/js/2.8d6fef34.chunk.js.map",
+    "static/js/3.2ea710e4.chunk.js": "/static/js/3.2ea710e4.chunk.js",
+    "static/js/3.2ea710e4.chunk.js.map": "/static/js/3.2ea710e4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0d93e06b.chunk.css.map": "/static/css/main.0d93e06b.chunk.css.map",
+    "static/js/2.8d6fef34.chunk.js.LICENSE.txt": "/static/js/2.8d6fef34.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bcgroundilustr.032e90bd.png",
+    "static/media/bcgrounsmart.e9fbb00f.jpg": "/static/media/bcgrounsmart.e9fbb00f.jpg",
+    "static/media/espaco.36c0f24e.gif": "/static/media/espaco.36c0f24e.gif",
+    "static/media/login.8349c05a.png": "/static/media/login.8349c05a.png",
+    "static/media/logo.b171f83a.svg": "/static/media/logo.b171f83a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7da82275.js",
+    "static/js/2.8d6fef34.chunk.js",
+    "static/css/main.0d93e06b.chunk.css",
+    "static/js/main.0214a691.chunk.js"
+  ]
+}
