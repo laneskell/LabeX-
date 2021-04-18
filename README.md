@@ -4,23 +4,13 @@ Aplicação web para inscrição em viagens espaciais. Consolidando conhecimento
 ### Link Surge (Veja na web)
 http://labexkell-lanes-connection.surge.sh/
 
-### Link da API:
-
-https://documenter.getpostman.com/view/9133542/TzCTZkQr#38271a50-477a-4422-bb78-e1b4d09ddd34
-
-### Wireframe:
-
-[wireframe-labex.pdf](https://github.com/future4code/Kethreen-Goncalves/files/6331982/wireframe-labex.pdf)
-
-### O que funciona
-
- Router
- Lista de viagens:
- Autenticação 
-
-Login : astrodev@gmail.com.br
+## 📦 Desenvolvimento
+Autenticação (área administrativa privada com autenticação)
+Login : lanes@gmail.com.br
 Senha: 123456 
-
+Funcionalidades:
+Router
+Lista de viagens
 Formulários
 a) Candidatura
 b) Login
@@ -29,14 +19,37 @@ c) Criação de Viagem
 a) Detalhes viagem
 b) Excluir viagem
 c) Logout
+ LogOut (Exclui o token do localStorage)
+ LogIn Persistente - Usuario logado não passa pela tela de login  (Verifica se tem Token e printa na home que o usuario esta logado).
  Detalhes da viagem
 a) Candidatos
 b) Aprovar/Reprovar candidatos
 c) Lista de candidatos aprovados
-Extras:
+
  Responsividade Tablet/Celular
- LogOut (Exclui o token do localStorage)
- LogIn Persistente - Usuario logado não passa pela tela de login  (Verifica se tem Token e printa na home que o usuario esta logado).
+
+## 🛠️ Construído com
+* REACT.JS
+Libs React:
+* axios
+* react-router-dom
+* styled.components
+* react-icons
+* swal -switalert
+
+Conhecimentos necessaŕios:
+* JAVASCRIPT
+* HTML5
+* CSS3
+
+### Link da API:
+
+https://documenter.getpostman.com/view/9133542/TzCTZkQr#38271a50-477a-4422-bb78-e1b4d09ddd34
+
+### Wireframe:
+
+[wireframe-labex.pdf](https://github.com/future4code/Kethreen-Goncalves/files/6331982/wireframe-labex.pdf)
+
 
 Prints art
 
